@@ -81,11 +81,11 @@
             </div>
             <div class="contactWrap">
                 <img src="images/phone-call.svg" class="contactIcon">
-                8 800 555 00 00
+                38 066 555 00 00
             </div>
             <div class="contactWrap">
                 <img src="images/placeholder.svg" class="contactIcon">
-                Москва, пр-т Ленина, д. 1 офис 304
+                Киев, пр-т Победы, д. 1 офис 304
             </div>
         </div>
 
